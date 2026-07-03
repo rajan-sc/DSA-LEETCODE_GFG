@@ -10,6 +10,7 @@ I use this repo to track my daily progress and improve my problem-solving skills
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rajan-sc/DSA-LEETCODE_GFG/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/rajan-sc/DSA-LEETCODE_GFG/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/rajan-sc/DSA-LEETCODE_GFG/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/rajan-sc/DSA-LEETCODE_GFG/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/rajan-sc/DSA-LEETCODE_GFG/tree/master/0560-subarray-sum-equals-k) |
@@ -63,4 +64,12 @@ I use this repo to track my daily progress and improve my problem-solving skills
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/rajan-sc/DSA-LEETCODE_GFG/tree/master/0053-maximum-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/rajan-sc/DSA-LEETCODE_GFG/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/rajan-sc/DSA-LEETCODE_GFG/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
