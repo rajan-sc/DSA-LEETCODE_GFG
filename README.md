@@ -19,4 +19,13 @@ I use this repo to track my daily progress and improve my problem-solving skills
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rajan-sc/DSA-LEETCODE_GFG/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/rajan-sc/DSA-LEETCODE_GFG/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/rajan-sc/DSA-LEETCODE_GFG/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/rajan-sc/DSA-LEETCODE_GFG/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
