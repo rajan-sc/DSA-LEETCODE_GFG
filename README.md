@@ -9,9 +9,14 @@ I use this repo to track my daily progress and improve my problem-solving skills
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rajan-sc/DSA-LEETCODE_GFG/tree/master/0001-two-sum) |
 | [0766-toeplitz-matrix](https://github.com/rajan-sc/DSA-LEETCODE_GFG/tree/master/0766-toeplitz-matrix) |
 ## Matrix
 |  |
 | ------- |
 | [0766-toeplitz-matrix](https://github.com/rajan-sc/DSA-LEETCODE_GFG/tree/master/0766-toeplitz-matrix) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/rajan-sc/DSA-LEETCODE_GFG/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
