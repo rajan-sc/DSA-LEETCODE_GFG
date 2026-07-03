@@ -11,6 +11,7 @@ I use this repo to track my daily progress and improve my problem-solving skills
 | ------- |
 | [0001-two-sum](https://github.com/rajan-sc/DSA-LEETCODE_GFG/tree/master/0001-two-sum) |
 | [0347-top-k-frequent-elements](https://github.com/rajan-sc/DSA-LEETCODE_GFG/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/rajan-sc/DSA-LEETCODE_GFG/tree/master/0560-subarray-sum-equals-k) |
 | [0766-toeplitz-matrix](https://github.com/rajan-sc/DSA-LEETCODE_GFG/tree/master/0766-toeplitz-matrix) |
 ## Matrix
 |  |
@@ -22,6 +23,7 @@ I use this repo to track my daily progress and improve my problem-solving skills
 | [0001-two-sum](https://github.com/rajan-sc/DSA-LEETCODE_GFG/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/rajan-sc/DSA-LEETCODE_GFG/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/rajan-sc/DSA-LEETCODE_GFG/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/rajan-sc/DSA-LEETCODE_GFG/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
@@ -51,4 +53,8 @@ I use this repo to track my daily progress and improve my problem-solving skills
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/rajan-sc/DSA-LEETCODE_GFG/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/rajan-sc/DSA-LEETCODE_GFG/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
