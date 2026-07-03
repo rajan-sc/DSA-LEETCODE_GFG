@@ -10,6 +10,7 @@ I use this repo to track my daily progress and improve my problem-solving skills
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rajan-sc/DSA-LEETCODE_GFG/tree/master/0001-two-sum) |
+| [0347-top-k-frequent-elements](https://github.com/rajan-sc/DSA-LEETCODE_GFG/tree/master/0347-top-k-frequent-elements) |
 | [0766-toeplitz-matrix](https://github.com/rajan-sc/DSA-LEETCODE_GFG/tree/master/0766-toeplitz-matrix) |
 ## Matrix
 |  |
@@ -20,6 +21,7 @@ I use this repo to track my daily progress and improve my problem-solving skills
 | ------- |
 | [0001-two-sum](https://github.com/rajan-sc/DSA-LEETCODE_GFG/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/rajan-sc/DSA-LEETCODE_GFG/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/rajan-sc/DSA-LEETCODE_GFG/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
@@ -28,4 +30,25 @@ I use this repo to track my daily progress and improve my problem-solving skills
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/rajan-sc/DSA-LEETCODE_GFG/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/rajan-sc/DSA-LEETCODE_GFG/tree/master/0347-top-k-frequent-elements) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/rajan-sc/DSA-LEETCODE_GFG/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/rajan-sc/DSA-LEETCODE_GFG/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/rajan-sc/DSA-LEETCODE_GFG/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/rajan-sc/DSA-LEETCODE_GFG/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/rajan-sc/DSA-LEETCODE_GFG/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
