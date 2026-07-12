@@ -12,6 +12,7 @@ I use this repo to track my daily progress and improve my problem-solving skills
 | [0001-two-sum](https://github.com/rajan-sc/DSA-LEETCODE_GFG/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/rajan-sc/DSA-LEETCODE_GFG/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/rajan-sc/DSA-LEETCODE_GFG/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/rajan-sc/DSA-LEETCODE_GFG/tree/master/0075-sort-colors) |
 | [0347-top-k-frequent-elements](https://github.com/rajan-sc/DSA-LEETCODE_GFG/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/rajan-sc/DSA-LEETCODE_GFG/tree/master/0560-subarray-sum-equals-k) |
 | [0766-toeplitz-matrix](https://github.com/rajan-sc/DSA-LEETCODE_GFG/tree/master/0766-toeplitz-matrix) |
@@ -33,6 +34,7 @@ I use this repo to track my daily progress and improve my problem-solving skills
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/rajan-sc/DSA-LEETCODE_GFG/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/rajan-sc/DSA-LEETCODE_GFG/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/rajan-sc/DSA-LEETCODE_GFG/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
@@ -68,6 +70,7 @@ I use this repo to track my daily progress and improve my problem-solving skills
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rajan-sc/DSA-LEETCODE_GFG/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/rajan-sc/DSA-LEETCODE_GFG/tree/master/0075-sort-colors) |
 ## Greedy
 |  |
 | ------- |
