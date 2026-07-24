@@ -17,6 +17,7 @@ I use this repo to track my daily progress and improve my problem-solving skills
 | [0347-top-k-frequent-elements](https://github.com/rajan-sc/DSA-LEETCODE_GFG/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/rajan-sc/DSA-LEETCODE_GFG/tree/master/0560-subarray-sum-equals-k) |
 | [0766-toeplitz-matrix](https://github.com/rajan-sc/DSA-LEETCODE_GFG/tree/master/0766-toeplitz-matrix) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/rajan-sc/DSA-LEETCODE_GFG/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Matrix
 |  |
 | ------- |
@@ -32,6 +33,7 @@ I use this repo to track my daily progress and improve my problem-solving skills
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/rajan-sc/DSA-LEETCODE_GFG/tree/master/0242-valid-anagram) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/rajan-sc/DSA-LEETCODE_GFG/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Sorting
 |  |
 | ------- |
@@ -80,4 +82,8 @@ I use this repo to track my daily progress and improve my problem-solving skills
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/rajan-sc/DSA-LEETCODE_GFG/tree/master/0033-search-in-rotated-sorted-array) |
+## String Matching
+|  |
+| ------- |
+| [2185-counting-words-with-a-given-prefix](https://github.com/rajan-sc/DSA-LEETCODE_GFG/tree/master/2185-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
